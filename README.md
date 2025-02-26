@@ -31,17 +31,6 @@ Debt-To-Equity = (Total Debt/Total Equity)
 
 Inventory Turnover = (COGS/Average Inventory)
 
-Net Income = Total Revenue-Total Expenses
-
-
-Operating Margin = (Operating Income / Revenue) * 100
-
-Net Profit Margin = (Net Income / Revenue) * 100
-
-Debt-to-Equity Ratio = Total Debt / Total Equity
-
-Inventory Turnover = Cost of Goods Sold (COGS) / Average Inventory
-
 Net Income = Total Revenue - Total Expenses
 
 Data extracted from each year’s 10-K report included Operating Income, Net Income, Revenue, Total Liabilities, Shareholder Equity, Inventory, Merchandise Cost, and Total Expenses.

@@ -22,6 +22,22 @@ Net Income highlights the company’s overall profitability.
 
 Data for this analysis was sourced from Costco’s annual 10-K reports, covering the period from 2014 to 2024. The selected KPIs—Operating Margin, Net Profit Margin, Debt-to-Equity Ratio, Inventory Turnover, and Net Income—were calculated using the following formulas:
 
+
+Operating Margin=((Operating Income)/Revenue)*100
+
+
+Net Profit Margin=((Net Income)/Revenue)*100
+
+Debt-To-Equity=((Total Debt)/(Total Equity))
+
+Inventory Turnover=COGS/(Average Inventory)
+
+Net Income=Total Revenue-Total Expenses
+
+
+![image](https://github.com/user-attachments/assets/a65879af-d82c-4562-9632-a5cf0a2cecd8)
+
+
 Operating Margin = (Operating Income / Revenue) * 100
 Net Profit Margin = (Net Income / Revenue) * 100
 Debt-to-Equity Ratio = Total Debt / Total Equity

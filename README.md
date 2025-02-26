@@ -35,21 +35,21 @@ Net Income = Total Revenue - Total Expenses
 
 Data extracted from each year’s 10-K report included Operating Income, Net Income, Revenue, Total Liabilities, Shareholder Equity, Inventory, Merchandise Cost, and Total Expenses.
 
-DETAILED ANALYSIS OF KPIs
+## DETAILED ANALYSIS OF KPIs
 
-Operating Margin
+#### Operating Margin
 Operating margin measures a company's ability to generate profit from its core operations after covering fixed costs. Over the past decade, Costco has increased its operating margin by 30%, reaching 3.7% in 2024. In comparison to the grocery store industry average of 1% to 3%, Costco’s performance is notably strong, highlighting its operational efficiency.
 
-Debt-to-Equity Ratio
+#### Debt-to-Equity Ratio
 The debt-to-equity ratio provides insight into a company’s financial leverage and risk. Costco’s D/E ratio has remained relatively stable over the past ten years, fluctuating between 1.6 and 2.3, with an average of 2.0. This means that for every dollar of equity, Costco carries approximately two dollars of debt. Although this is above the industry average of 1.5, it does not appear to negatively affect the company's profitability or financial stability. Despite frequent expansion, Costco has effectively managed its debt obligations, demonstrating resilience in leveraging debt to fuel growth.
 
-Inventory Turnover Ratio
+#### Inventory Turnover Ratio
 Inventory turnover indicates how efficiently a company manages and replenishes its inventory. Over the last decade, Costco has increased its inventory turnover ratio by 3.84%, with a current turnover of 12.05 times per year (2024). This means Costco's inventory is replenished roughly once a month. The industry standard for inventory turnover is typically between 10 and 15 times per year, placing Costco comfortably within this range, showcasing its efficient inventory management and ability to meet customer demand.
 
-Net Income
+#### Net Income
 Net income measures a company's total earnings after taxes and expenses. Over the past ten years, Costco’s net income has surged by 258%, from $2.06 billion in 2014 to $7.37 billion in 2024. Prior to 2020, Costco experienced steady, incremental growth, averaging a $500 million increase annually. Following the onset of the COVID-19 pandemic, net income saw a significant uptick, particularly in 2021, due to higher grocery prices and inflationary pressures. This growth reflects Costco's ability to adapt to external challenges and capitalize on favorable market conditions.
 
-Net Profit Margin
+#### Net Profit Margin
 Net Profit Margin (NPM) is an important indicator of a company’s overall financial health and profitability. Over the past decade, Costco’s NPM has grown from 1.0% in 2014 to 3.5% in 2024, representing an increase of 1.95%. This steady improvement signals Costco’s enhanced profitability, indicating efficient cost management and effective revenue generation.
 
 ## KEY INSIGHTS AND TAKEAWAYS

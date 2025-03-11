@@ -2,7 +2,7 @@
 
 ## EXECUTIVE SUMMARY
 
-![Dashboard Draft (1)](https://github.com/user-attachments/assets/8001fe80-5e05-48d1-8b08-b0af8212f483)
+![Dashboard Draft (2)](https://github.com/user-attachments/assets/d323fe8f-6324-445e-af66-5aefb352eced)
 
 
 Costco Wholesale Corporation is a leading global retailer known for its membership-based warehouse club model, which offers a broad range of high-quality products at competitive prices. The company provides goods across various categories, including groceries, electronics, clothing, and home goods, among others. Costco’s emphasis on bulk purchasing and value-oriented pricing has fostered a loyal customer base, driving consistent revenue growth and operational efficiency. The company’s robust business model, combined with its ability to leverage economies of scale, has solidified its position as one of the largest and most successful retailers worldwide. Over the past decade, Costco has demonstrated resilience and adaptability in an ever-evolving retail environment, as evidenced by its expanding footprint and sustained net income growth.
